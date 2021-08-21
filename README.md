@@ -1,4 +1,5 @@
-### Aoba! Eu sou o Gabriel Lopes 👋
+<div align="center"> 
+ <h1> Aoba! Eu sou o Gabriel Lopes 👋 </h1>
  <div>
   <a href="https://github.com/gabriellopesglp">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellopesglp&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -14,7 +15,7 @@
   
   ##
  
-<div align="center"> 
+
   <a href="https://instagram.com/gaberacj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/gabera" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-lopes-glp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
